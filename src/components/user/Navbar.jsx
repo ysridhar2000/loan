@@ -6,7 +6,7 @@ export default class Navbar extends React.Component {
     return (
       <div>
         <header className="navbar">
-          <div className="navbar__title navbar__item">Bike Loan</div>
+          <div className="navbar__title navbar__item">Business Loan</div>
           <div className="navbar__item" id="applyLoan">
             <Link to="/user/AddLoan">Apply Loan</Link>
           </div>

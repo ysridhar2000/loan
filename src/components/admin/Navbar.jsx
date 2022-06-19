@@ -7,7 +7,7 @@ export default class Dashboard extends React.Component {
     return (
       <div>
         <header className="navbar">
-          <div className="navbar__title navbar__item">Bike Loan</div>
+          <div className="navbar__title navbar__item">Business Loan</div>
           <div className="navbar__item" id="adminAppliedLoans">
             <Link to="/admin/getAllLoans">Applied Loan</Link>
           </div>

@@ -43,7 +43,7 @@ export default function Login() {
       <div className="squeeze_wrapper">
         <div className="squeeze_header">
           <h2 id="main_title">
-            <Link to="/">Bike Loan</Link>
+            <Link to="/">Business Loan</Link>
           </h2>
           <br />
         </div>
